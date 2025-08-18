@@ -210,15 +210,10 @@
       "params": {
         "denom": "uGNOD",
         "distributionStartDate": "2025-04-25",
-        "distribution_start_date": "2025-07-22",
         "maxSupply": "30000000000000000",
-        "max_supply": "30000000000000000",
         "mintingAddress": "gnodi1n6j4fwc3vkdqrvsl3n34nqd6wkck6xqzpd2mnt",
-        "minting_address": "",
         "monthsInHalvingPeriod": "12",
-        "months_in_halving_period": "12",
         "receivingAddress": "gnodi1f65ut3cys9lreyg9d47vrjy859re5v3u0z9gen",
-        "receiving_address": ""
       }
     },
     "epochs": {
