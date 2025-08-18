@@ -6,8 +6,8 @@
 	"microDenom": "uGNOD",
 	"decimals": 6,
 	"minGasPrice": "1",
-	"mintingAddress": "x",
-	"receivingAddress": "x",
+	"mintingAddress": "gnodi1n6j4fwc3vkdqrvsl3n34nqd6wkck6xqzpd2mnt",
+	"receivingAddress": "gnodi1f65ut3cys9lreyg9d47vrjy859re5v3u0z9gen",
 	"maxSupply": "30000000000000000",
 	"distributionStartDate": "2025-04-25",
 	"monthsInHalvingPeriod": "12"

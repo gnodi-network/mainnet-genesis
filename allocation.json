@@ -2,14 +2,14 @@
     "denom": "GNOD",
     "totalSupply": 900000, 
     "accounts": [
-        { "email": "jared@newbold.net", "name": "Jared", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "bryan@bryanferre.com", "name": "Bryan", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "crpickering@gmail.com", "name": "Craig P", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "rlsteed@gmail.com", "name": "Bob", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "deweym@cirrusnetworks.io", "name": "Dewey", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "cssmith6@gmail.com", "name": "Craig S", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "bracken.jeff@gmail.com", "name": "Bracken", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "grantpace@gmail.com", "name": "Grant", "address": "xx", "amount": 100000, "stake": 99000 },
-        { "email": "cat.h.bonar@gmail.com", "name": "Cat", "address": "xx", "amount": 100000, "stake": 99000 }
+        { "email": "jared@newbold.net", "name": "Jared", "address": "gnodi1xkphnqh3x8sv6m5h202n6qxhe5u7cad67zwg4k", "amount": 100000, "stake": 99000 },
+        { "email": "bryan@bryanferre.com", "name": "Bryan", "address": "gnodi1f59hsly6avfp97hgk50xpt3fdyj4v27nredsrm", "amount": 100000, "stake": 99000 },
+        { "email": "crpickering@gmail.com", "name": "Craig P", "address": "gnodi13m9zdgl6cjmp0u6j765g8t040zk2u0pxzwdjdc", "amount": 100000, "stake": 99000 },
+        { "email": "rlsteed@gmail.com", "name": "Bob", "address": "gnodi1uq3rruymj9tjwqnndjdvuszmg8udj9ka5s0a5f", "amount": 100000, "stake": 99000 },
+        { "email": "deweym@cirrusnetworks.io", "name": "Dewey", "address": "gnodi1fewxrwf2q7tsxthzfq5n9tjvcz64dj6nclyypz", "amount": 100000, "stake": 99000 },
+        { "email": "cssmith6@gmail.com", "name": "Craig S", "address": "gnodi1q64cqdx8mxptxwjszs6nrsr0hgpycxfvzmma99", "amount": 100000, "stake": 99000 },
+        { "email": "bracken.jeff@gmail.com", "name": "Bracken", "address": "gnodi1nlwyr4t2yleygvp70ny3cx28lez4ymjredum6k", "amount": 100000, "stake": 99000 },
+        { "email": "grantpace@gmail.com", "name": "Grant", "address": "gnodi165hdcqutakfflgaj39kc4772e83pju539h499y", "amount": 100000, "stake": 99000 },
+        { "email": "cat.h.bonar@gmail.com", "name": "Cat", "address": "gnodi19gvda2qnyzglpcgpurnyl5qvgrl4lzhm8pf9zh", "amount": 100000, "stake": 99000 }
     ]
 }
