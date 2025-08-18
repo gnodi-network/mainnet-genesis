@@ -1,0 +1,14 @@
+{
+	"environment": "mainnet",
+	"moniker": "gnodi",
+	"chainId": "gnodi",
+	"symbol": "GNOD",
+	"microDenom": "uGNOD",
+	"decimals": 6,
+	"minGasPrice": "1",
+	"mintingAddress": "x",
+	"receivingAddress": "x",
+	"maxSupply": "30000000000000000",
+	"distributionStartDate": "2025-04-25",
+	"monthsInHalvingPeriod": "12"
+}

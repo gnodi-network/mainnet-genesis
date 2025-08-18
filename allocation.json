@@ -1,0 +1,15 @@
+{
+    "denom": "GNOD",
+    "totalSupply": 900000, 
+    "accounts": [
+        { "email": "jared@newbold.net", "name": "Jared", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "bryan@bryanferre.com", "name": "Bryan", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "crpickering@gmail.com", "name": "Craig P", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "rlsteed@gmail.com", "name": "Bob", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "deweym@cirrusnetworks.io", "name": "Dewey", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "cssmith6@gmail.com", "name": "Craig S", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "bracken.jeff@gmail.com", "name": "Bracken", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "grantpace@gmail.com", "name": "Grant", "address": "xx", "amount": 100000, "stake": 99000 },
+        { "email": "cat.h.bonar@gmail.com", "name": "Cat", "address": "xx", "amount": 100000, "stake": 99000 }
+    ]
+}
